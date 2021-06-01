@@ -1,7 +1,9 @@
 lista=[1,2,3,2,5,2]
 print(lista)
-print(lista.count(2))
+print("A 2 száma= ",lista.count(2))
 lista.reverse()
+print(lista)
+lista.sort()
 print(lista)
 
 

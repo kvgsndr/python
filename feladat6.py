@@ -9,5 +9,3 @@ perc=40
 mperc=12
 eredmény=óra*(60*60)+perc*60+mperc
 print(óra,":",perc,":", mperc, "Másodpercben=", eredmény)
-
-mp
