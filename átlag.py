@@ -7,7 +7,7 @@ for i in range(N):
 print(lista)
 osszeg=0
 for i in range( len(lista)) :    # range(N)
-    osszeg+=lista[i];
+    osszeg+=lista[i]
 
 print("Összeg= ", osszeg)
 atlag=osszeg/N

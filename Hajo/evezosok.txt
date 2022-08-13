@@ -1,0 +1,14 @@
+Név;súly;kezes	
+Mari;70;M;-1
+Erzsi;55;M;-1
+Sanyi;76;B;-1
+Misi;55;B;-1
+Józsi;71;B;-1
+Géza;78;B;-1 
+Kati;56;B;-1
+Béla;85;J;-1
+Piri;62;J;-1
+Jani;75;J;-1
+Ati;100;J;-1
+Gábor;77;J;-1
+Hajni;63;J;-1
